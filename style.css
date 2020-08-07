@@ -1,0 +1,23 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+.main-links {
+    text-align: center;
+}
+
+a {
+    font-family: 'Poppins', Poppins, sans-serif;
+    padding: 40px 90px;
+    margin: 50px;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-transform: capitalize;
+}
+
+a:hover {
+
+}
